@@ -10,3 +10,4 @@ while babies < 100:
 
 
     #Antalet babies plussas ihop med föregående värde, t.ex. 1+2= 3 babies och 13+21=34 babies. Fibonacci mönster.
+pennah
